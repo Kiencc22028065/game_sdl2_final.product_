@@ -23,9 +23,27 @@ Bản hoàn thiện game SDL2
 - They can shoot as well, so try to dodge their bullet to save your lives.
 - Touching the threats can be harmful, take care!
 
-# 3. Installed Functions
-_____Loading_____
-(This game is not finished yet)
+# 3. Installed Libraries
+* This game was made by using the following matters:
+- Code::Blocks 20.03 IDE
+- C++ programming language
+- SDL.h
+- SDL_mixer.h
+- SDL_image.h
+- SDL_ttf.h
+- windows.h
+- vector
+- string
+- iostream
+- bits/stdc++.h
+- stdlib.h
+- stdio.h
+- TextEditor
+- png, dat, wav files
+- ...
 
 # 4. How to play video
 https://www.youtube.com/watch?v=WmUU4jZGijE&t=1s
+
+# 5. Motivations and Credits
+

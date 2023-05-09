@@ -17,7 +17,7 @@ Bản hoàn thiện game SDL2
 - Defeat the monsters including the final boss to increase your mark.
 - To win the game, you have to take the mysterious item from the final boss.
 - BECAREFUL! If you fall down the abysses, you will lose immediately!!!
-
+- Forget how to play? Don't worry, just press T button to reach the game tutorial!
 *Threats:
 - There are static threats, moving threats and one final boss.
 - They can shoot as well, so try to dodge their bullet to save your lives.

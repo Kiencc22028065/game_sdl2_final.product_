@@ -22,6 +22,8 @@ Bản hoàn thiện game SDL2
 - There are static threats, moving threats and one final boss.
 - They can shoot as well, so try to dodge their bullet to save your lives.
 - Touching the threats can be harmful, take care!
+- Use M button to turn off the sound
+- Use N button to turn on the sound
 
 # 3. Installed Libraries
 * This game was made by using the following matters:
